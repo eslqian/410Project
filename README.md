@@ -31,7 +31,7 @@ The **Study Guide Helper** is an educational tool designed to aid in study and l
 
 1. **Text Extraction and Processing**: Run the script sections from "Step 1" to "Step 3" to preprocess and set up your corpus of texts.
 2. **Parallelized Query Processing with GPT-4 (Step 4)**: This step involves using GPT-4 in conjunction with a context-based retrieval system for answering guiding questions.
-3. **Generating Guiding Questions and Key Concepts (Step 5)**: Automatically generate guiding questions and key concepts for lectures.
+3. **Generating Guiding Questions and Key Concepts (Step 5)**: Automatically generate guiding questions and key concepts for lectures (OPTIONAL).
 4. **User Interaction (Step 6)**: Execute this section for the main program loop, which allows users to query the system or get guided questions.
 
 ### User Options
@@ -78,7 +78,3 @@ The **Study Guide Helper** is an educational tool designed to aid in study and l
 ### Error Handling
 
 - Error handling is implemented throughout the application to ensure robustness, especially in file operations and API interactions.
-
-## Conclusion
-
-The **Study Guide Helper** is a comprehensive tool designed for educational purposes. Its implementation showcases the integration of advanced text processing techniques and AI to facilitate learning. This documentation provides a basic guide to using and understanding the software.
