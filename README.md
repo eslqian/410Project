@@ -6,12 +6,6 @@
 3. JP Mancini, johnm17@illinois.edu, johnm17
 4. Rohit Deshpande, rohit5@illinois.edu, rohit5
 
-Creating comprehensive documentation for your "Study Guide Helper" project is a critical aspect of your submission. Documentation should be clear, concise, and detailed enough to guide users and developers through both using and understanding the software. Here's a suggested structure for your documentation:
-
----
-
-Absolutely! Including details on Steps 4 and 5 in your documentation is essential to provide a complete overview of your project. Let's integrate these sections into the existing structure.
-
 ---
 
 # Documentation
