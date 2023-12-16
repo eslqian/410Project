@@ -12,7 +12,7 @@
 
 ## Overview
 
-The **Study Guide Helper** is a sophisticated educational tool designed to aid in study and learning processes. It integrates advanced text processing, OpenAI's GPT-4, and a user-friendly interface to provide targeted learning support. This document provides detailed information on using and understanding the software implementation.
+The **Study Guide Helper** is an educational tool designed to aid in study and learning processes. It integrates advanced text processing, OpenAI's GPT-4, and a user-friendly interface to provide targeted learning support. This document provides detailed information on using and understanding the software implementation.
 
 ## How to Use the Software
 
